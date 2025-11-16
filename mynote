@@ -1,0 +1,4 @@
+composer init
+composer require spomky-labs/otphp # For TOTP (Google Authenticator)
+composer require endroid/qr-code # For QR code generation
+composer require vlucas/phpdotenv # For .env support
