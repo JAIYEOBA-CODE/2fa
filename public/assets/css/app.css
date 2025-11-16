@@ -1,0 +1,9 @@
+/* Minimal extra styles */
+
+body {
+    font-family: system-ui, Helvetica, Arial, sans-serif;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
